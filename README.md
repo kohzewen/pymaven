@@ -22,5 +22,8 @@ You should now be able to run the example code `example.ipynb` in this package, 
 - `plot_orbit.py`: Plots the orbit of MAVEN on a given day.
 - `plot_inst.py`: Plots instrumental (MAG, SWEA, SWIA, STATIC) data in a given time interval.
 
+## How to cite this package
+Submitted paper in the works, coming soon!
+
 ## License
 [MIT](LICENSE) © Ze-Wen Koh
